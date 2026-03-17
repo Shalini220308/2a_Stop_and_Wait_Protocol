@@ -63,7 +63,7 @@ while True:
 
 ## OUTPUT
 
-![alt text](<Screenshot 2026-02-03 033711.png>)
+![alt text](image-1.png)
 
 ![alt text](image.png)
 
